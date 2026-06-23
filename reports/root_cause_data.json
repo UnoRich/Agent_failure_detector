@@ -1,0 +1,2846 @@
+[
+    {
+        "sample_id": 1255,
+        "lot_id": "LOT_0051",
+        "wafer_id": 6,
+        "prediction_probability": 0.053505539894104004,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.26350945234298706,
+                "raw_value": "0.0828"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.19912904500961304,
+                "raw_value": "7.2632"
+            },
+            {
+                "feature": "sensor_9",
+                "shap_val": 0.16882050037384033,
+                "raw_value": "-0.0364"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12615551054477692,
+                "raw_value": "47.8616"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.11285052448511124,
+                "raw_value": "82.4000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1256,
+        "lot_id": "LOT_0051",
+        "wafer_id": 7,
+        "prediction_probability": 0.21442897617816925,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 1.40576171875,
+                "raw_value": "0.0956"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.1729949712753296,
+                "raw_value": "2914.0400"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.11791343986988068,
+                "raw_value": "0.1433"
+            },
+            {
+                "feature": "sensor_71",
+                "shap_val": 0.08422938734292984,
+                "raw_value": "183.2095"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.06794929504394531,
+                "raw_value": "7.7300"
+            }
+        ]
+    },
+    {
+        "sample_id": 1260,
+        "lot_id": "LOT_0051",
+        "wafer_id": 11,
+        "prediction_probability": 0.05994097515940666,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.14771196246147156,
+                "raw_value": "2953.6300"
+            },
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.1334429830312729,
+                "raw_value": "108.6813"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.11290259659290314,
+                "raw_value": "4.4743"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11031654477119446,
+                "raw_value": "32.6879"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09301304072141647,
+                "raw_value": "-5242.7500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1262,
+        "lot_id": "LOT_0051",
+        "wafer_id": 13,
+        "prediction_probability": 0.06579122692346573,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.3379989266395569,
+                "raw_value": "0.1474"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.18091268837451935,
+                "raw_value": "8.6787"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.15192240476608276,
+                "raw_value": "29.3356"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.12547749280929565,
+                "raw_value": "-5294.5000"
+            },
+            {
+                "feature": "sensor_90",
+                "shap_val": 0.0928037092089653,
+                "raw_value": "8612.4800"
+            }
+        ]
+    },
+    {
+        "sample_id": 1267,
+        "lot_id": "LOT_0051",
+        "wafer_id": 18,
+        "prediction_probability": 0.14266136288642883,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.45045167207717896,
+                "raw_value": "28.1684"
+            },
+            {
+                "feature": "sensor_173",
+                "shap_val": 0.24833481013774872,
+                "raw_value": "0.8643"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.13859350979328156,
+                "raw_value": "33.7616"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.12015070021152496,
+                "raw_value": "-0.0331"
+            },
+            {
+                "feature": "sensor_584",
+                "shap_val": 0.10999584943056107,
+                "raw_value": "0.0066"
+            }
+        ]
+    },
+    {
+        "sample_id": 1271,
+        "lot_id": "LOT_0051",
+        "wafer_id": 22,
+        "prediction_probability": 0.060477837920188904,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_362",
+                "shap_val": 0.1624741405248642,
+                "raw_value": "0.0079"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.13971734046936035,
+                "raw_value": "30.1816"
+            },
+            {
+                "feature": "sensor_283",
+                "shap_val": 0.12031003087759018,
+                "raw_value": "2.1297"
+            },
+            {
+                "feature": "sensor_541",
+                "shap_val": 0.1032659262418747,
+                "raw_value": "12.4529"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.06690166145563126,
+                "raw_value": "0.2290"
+            }
+        ]
+    },
+    {
+        "sample_id": 1272,
+        "lot_id": "LOT_0051",
+        "wafer_id": 23,
+        "prediction_probability": 0.057292427867650986,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.20256787538528442,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.14048519730567932,
+                "raw_value": "-5241.5000"
+            },
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.12111128866672516,
+                "raw_value": "115.4803"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.1107792854309082,
+                "raw_value": "2831.1800"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.07497258484363556,
+                "raw_value": "2.9981"
+            }
+        ]
+    },
+    {
+        "sample_id": 1280,
+        "lot_id": "LOT_0052",
+        "wafer_id": 6,
+        "prediction_probability": 0.11535605043172836,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.4210059344768524,
+                "raw_value": "0.1416"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.19567497074604034,
+                "raw_value": "40.9521"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.12010970711708069,
+                "raw_value": "-0.0125"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09834176301956177,
+                "raw_value": "-5294.5000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.09569374471902847,
+                "raw_value": "0.1520"
+            }
+        ]
+    },
+    {
+        "sample_id": 1283,
+        "lot_id": "LOT_0052",
+        "wafer_id": 9,
+        "prediction_probability": 0.13940010964870453,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_584",
+                "shap_val": 0.2169756144285202,
+                "raw_value": "0.0060"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1572234332561493,
+                "raw_value": "50.7630"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.12124241143465042,
+                "raw_value": "0.1544"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.12078677117824554,
+                "raw_value": "5.4358"
+            },
+            {
+                "feature": "sensor_339",
+                "shap_val": 0.11086738109588623,
+                "raw_value": "11.9865"
+            }
+        ]
+    },
+    {
+        "sample_id": 1285,
+        "lot_id": "LOT_0052",
+        "wafer_id": 11,
+        "prediction_probability": 0.10047561675310135,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.21764209866523743,
+                "raw_value": "128.4819"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.1278499811887741,
+                "raw_value": "0.1451"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11874190717935562,
+                "raw_value": "29.2584"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.09249473363161087,
+                "raw_value": "0.0632"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.09171374887228012,
+                "raw_value": "12.0900"
+            }
+        ]
+    },
+    {
+        "sample_id": 1289,
+        "lot_id": "LOT_0052",
+        "wafer_id": 15,
+        "prediction_probability": 0.08276881277561188,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.22529537975788116,
+                "raw_value": "7.4993"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.18964703381061554,
+                "raw_value": "2939.9400"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.14013175666332245,
+                "raw_value": "81.8600"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.1326354593038559,
+                "raw_value": "6.8357"
+            },
+            {
+                "feature": "sensor_120",
+                "shap_val": 0.07543772459030151,
+                "raw_value": "6.5756"
+            }
+        ]
+    },
+    {
+        "sample_id": 1291,
+        "lot_id": "LOT_0052",
+        "wafer_id": 17,
+        "prediction_probability": 0.09586924314498901,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.17191967368125916,
+                "raw_value": "83.1300"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.13289396464824677,
+                "raw_value": "3.3000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1325482726097107,
+                "raw_value": "26.0609"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.11368273943662643,
+                "raw_value": "0.1304"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.10485256463289261,
+                "raw_value": "32.9711"
+            }
+        ]
+    },
+    {
+        "sample_id": 1293,
+        "lot_id": "LOT_0052",
+        "wafer_id": 19,
+        "prediction_probability": 0.06995894759893417,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.4427850544452667,
+                "raw_value": "0.0698"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.17943839728832245,
+                "raw_value": "9.4373"
+            },
+            {
+                "feature": "sensor_63",
+                "shap_val": 0.15720947086811066,
+                "raw_value": "19.0536"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1167069673538208,
+                "raw_value": "23.4919"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.10512077063322067,
+                "raw_value": "40.8846"
+            }
+        ]
+    },
+    {
+        "sample_id": 1299,
+        "lot_id": "LOT_0052",
+        "wafer_id": 25,
+        "prediction_probability": 0.05351840332150459,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_362",
+                "shap_val": 0.203705832362175,
+                "raw_value": "0.0090"
+            },
+            {
+                "feature": "sensor_283",
+                "shap_val": 0.14157980680465698,
+                "raw_value": "2.2066"
+            },
+            {
+                "feature": "sensor_541",
+                "shap_val": 0.1034192368388176,
+                "raw_value": "12.4529"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.09010214358568192,
+                "raw_value": "53.9141"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.08248890191316605,
+                "raw_value": "31.3079"
+            }
+        ]
+    },
+    {
+        "sample_id": 1303,
+        "lot_id": "LOT_0053",
+        "wafer_id": 4,
+        "prediction_probability": 0.05491933226585388,
+        "actual_status": "FAIL",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.474214643239975,
+                "raw_value": "8.1455"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.1805720329284668,
+                "raw_value": "-5233.7500"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1471119076013565,
+                "raw_value": "25.4407"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.13624414801597595,
+                "raw_value": "2848.4600"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.11817872524261475,
+                "raw_value": "0.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1304,
+        "lot_id": "LOT_0053",
+        "wafer_id": 5,
+        "prediction_probability": 0.480348140001297,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.6992403864860535,
+                "raw_value": "0.1416"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2884379029273987,
+                "raw_value": "7.0081"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.20587511360645294,
+                "raw_value": "0.1404"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17051811516284943,
+                "raw_value": "24.1098"
+            },
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.11368435621261597,
+                "raw_value": "1.6482"
+            }
+        ]
+    },
+    {
+        "sample_id": 1305,
+        "lot_id": "LOT_0053",
+        "wafer_id": 6,
+        "prediction_probability": 0.06756923347711563,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.31956613063812256,
+                "raw_value": "124.0594"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.14600160717964172,
+                "raw_value": "28.3055"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12729302048683167,
+                "raw_value": "26.1182"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.1238381564617157,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_541",
+                "shap_val": 0.08287737518548965,
+                "raw_value": "12.4529"
+            }
+        ]
+    },
+    {
+        "sample_id": 1306,
+        "lot_id": "LOT_0053",
+        "wafer_id": 7,
+        "prediction_probability": 0.07482705265283585,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.7677081227302551,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12411584705114365,
+                "raw_value": "35.8066"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.11445771157741547,
+                "raw_value": "2941.2600"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09620526432991028,
+                "raw_value": "-5357.5000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.0601256787776947,
+                "raw_value": "0.1780"
+            }
+        ]
+    },
+    {
+        "sample_id": 1307,
+        "lot_id": "LOT_0053",
+        "wafer_id": 8,
+        "prediction_probability": 0.0718599185347557,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.5285385847091675,
+                "raw_value": "7.1009"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.16324524581432343,
+                "raw_value": "-5070.7500"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12410145998001099,
+                "raw_value": "31.0858"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.11683835834264755,
+                "raw_value": "9.5469"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.09697845578193665,
+                "raw_value": "0.1209"
+            }
+        ]
+    },
+    {
+        "sample_id": 1308,
+        "lot_id": "LOT_0053",
+        "wafer_id": 9,
+        "prediction_probability": 0.06778239458799362,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_11",
+                "shap_val": 0.2486930638551712,
+                "raw_value": "0.9416"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17515650391578674,
+                "raw_value": "40.2301"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.1170993521809578,
+                "raw_value": "-0.0123"
+            },
+            {
+                "feature": "sensor_126",
+                "shap_val": 0.03244495391845703,
+                "raw_value": "2.9080"
+            },
+            {
+                "feature": "sensor_33",
+                "shap_val": 0.03219534829258919,
+                "raw_value": "8.9036"
+            }
+        ]
+    },
+    {
+        "sample_id": 1316,
+        "lot_id": "LOT_0053",
+        "wafer_id": 17,
+        "prediction_probability": 0.10601328313350677,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.1462513953447342,
+                "raw_value": "0.9929"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.13788053393363953,
+                "raw_value": "42.3443"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.12134266644716263,
+                "raw_value": "0.0763"
+            },
+            {
+                "feature": "sensor_11",
+                "shap_val": 0.11557528376579285,
+                "raw_value": "0.9484"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.11379086971282959,
+                "raw_value": "2974.6500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1323,
+        "lot_id": "LOT_0053",
+        "wafer_id": 24,
+        "prediction_probability": 0.26209548115730286,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.6651687026023865,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_11",
+                "shap_val": 0.3313140571117401,
+                "raw_value": "0.9465"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17585143446922302,
+                "raw_value": "33.6613"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.1676456481218338,
+                "raw_value": "6.9471"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.09041817486286163,
+                "raw_value": "0.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1324,
+        "lot_id": "LOT_0053",
+        "wafer_id": 25,
+        "prediction_probability": 0.06806285679340363,
+        "actual_status": "FAIL",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.14753732085227966,
+                "raw_value": "27.0913"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.11917628347873688,
+                "raw_value": "-0.0168"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.06917911767959595,
+                "raw_value": "0.1457"
+            },
+            {
+                "feature": "sensor_90",
+                "shap_val": 0.06428415328264236,
+                "raw_value": "8649.4701"
+            },
+            {
+                "feature": "sensor_488",
+                "shap_val": 0.06415608525276184,
+                "raw_value": "0.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1326,
+        "lot_id": "LOT_0054",
+        "wafer_id": 2,
+        "prediction_probability": 0.39085835218429565,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.7744033336639404,
+                "raw_value": "5.7309"
+            },
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.32356053590774536,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.20729324221611023,
+                "raw_value": "-5280.2500"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.14995670318603516,
+                "raw_value": "8.1035"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.10923139750957489,
+                "raw_value": "0.2190"
+            }
+        ]
+    },
+    {
+        "sample_id": 1330,
+        "lot_id": "LOT_0054",
+        "wafer_id": 6,
+        "prediction_probability": 0.0774061307311058,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.15396374464035034,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_12",
+                "shap_val": 0.149690642952919,
+                "raw_value": "195.2737"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12288980185985565,
+                "raw_value": "45.0111"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.060938868671655655,
+                "raw_value": "0.1474"
+            },
+            {
+                "feature": "sensor_90",
+                "shap_val": 0.06028106063604355,
+                "raw_value": "8388.0600"
+            }
+        ]
+    },
+    {
+        "sample_id": 1331,
+        "lot_id": "LOT_0054",
+        "wafer_id": 7,
+        "prediction_probability": 0.0928095132112503,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.9955620765686035,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.11241921782493591,
+                "raw_value": "7.8785"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.10758663713932037,
+                "raw_value": "0.0753"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.1019505187869072,
+                "raw_value": "-5048.5000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.07597443461418152,
+                "raw_value": "0.1700"
+            }
+        ]
+    },
+    {
+        "sample_id": 1337,
+        "lot_id": "LOT_0054",
+        "wafer_id": 13,
+        "prediction_probability": 0.08495689183473587,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1407984346151352,
+                "raw_value": "32.5922"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.10639357566833496,
+                "raw_value": "82.7600"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09381914138793945,
+                "raw_value": "-5311.0000"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.08961006999015808,
+                "raw_value": "2915.5400"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.08842893689870834,
+                "raw_value": "0.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1339,
+        "lot_id": "LOT_0054",
+        "wafer_id": 15,
+        "prediction_probability": 0.05872996151447296,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.14640162885189056,
+                "raw_value": "0.9926"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.14212794601917267,
+                "raw_value": "6.7739"
+            },
+            {
+                "feature": "sensor_63",
+                "shap_val": 0.1390235275030136,
+                "raw_value": "21.8591"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.12972407042980194,
+                "raw_value": "8.0432"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.10679757595062256,
+                "raw_value": "32.4059"
+            }
+        ]
+    },
+    {
+        "sample_id": 1343,
+        "lot_id": "LOT_0054",
+        "wafer_id": 19,
+        "prediction_probability": 0.056851450353860855,
+        "actual_status": "FAIL",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.3738262951374054,
+                "raw_value": "0.0667"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11398883163928986,
+                "raw_value": "30.1178"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.10006625950336456,
+                "raw_value": "-0.0341"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.06617160141468048,
+                "raw_value": "2.7317"
+            },
+            {
+                "feature": "sensor_405",
+                "shap_val": 0.05969340726733208,
+                "raw_value": "0.0062"
+            }
+        ]
+    },
+    {
+        "sample_id": 1344,
+        "lot_id": "LOT_0054",
+        "wafer_id": 20,
+        "prediction_probability": 0.19601911306381226,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17143391072750092,
+                "raw_value": "37.3638"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.11629943549633026,
+                "raw_value": "2964.6900"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.11212550103664398,
+                "raw_value": "8.7070"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.10916639119386673,
+                "raw_value": "-0.0054"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.10486573725938797,
+                "raw_value": "0.1474"
+            }
+        ]
+    },
+    {
+        "sample_id": 1345,
+        "lot_id": "LOT_0054",
+        "wafer_id": 21,
+        "prediction_probability": 0.06369956582784653,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.7639735341072083,
+                "raw_value": "5.1700"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.22977350652217865,
+                "raw_value": "7.7904"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.16717034578323364,
+                "raw_value": "2909.4300"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.1298188716173172,
+                "raw_value": "-5285.0000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11345582455396652,
+                "raw_value": "25.3661"
+            }
+        ]
+    },
+    {
+        "sample_id": 1348,
+        "lot_id": "LOT_0054",
+        "wafer_id": 24,
+        "prediction_probability": 0.05648393556475639,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.1211351826786995,
+                "raw_value": "8.3516"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.10027368366718292,
+                "raw_value": "2873.8300"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.07337938994169235,
+                "raw_value": "40.5582"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.07258555293083191,
+                "raw_value": "0.2010"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.07134997099637985,
+                "raw_value": "5.4358"
+            }
+        ]
+    },
+    {
+        "sample_id": 1363,
+        "lot_id": "LOT_0055",
+        "wafer_id": 14,
+        "prediction_probability": 0.05780496075749397,
+        "actual_status": "FAIL",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.12705391645431519,
+                "raw_value": "82.4000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11572466045618057,
+                "raw_value": "47.3107"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.06835849583148956,
+                "raw_value": "9.1663"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.06251344084739685,
+                "raw_value": "-5392.2500"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.061577145010232925,
+                "raw_value": "0.1550"
+            }
+        ]
+    },
+    {
+        "sample_id": 1364,
+        "lot_id": "LOT_0055",
+        "wafer_id": 15,
+        "prediction_probability": 0.1176987737417221,
+        "actual_status": "FAIL",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.8901137113571167,
+                "raw_value": "0.1416"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.33183157444000244,
+                "raw_value": "6.8036"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.13020901381969452,
+                "raw_value": "7.1003"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.08057207614183426,
+                "raw_value": "8.6026"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.07126448303461075,
+                "raw_value": "-5390.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1373,
+        "lot_id": "LOT_0055",
+        "wafer_id": 24,
+        "prediction_probability": 0.05954466015100479,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.4213569164276123,
+                "raw_value": "83.1300"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.12512336671352386,
+                "raw_value": "-5364.7500"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.11757060140371323,
+                "raw_value": "2945.7800"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1120317131280899,
+                "raw_value": "23.2428"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.10894618183374405,
+                "raw_value": "0.1304"
+            }
+        ]
+    },
+    {
+        "sample_id": 1374,
+        "lot_id": "LOT_0055",
+        "wafer_id": 25,
+        "prediction_probability": 0.1921868920326233,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.4260839819908142,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.20154885947704315,
+                "raw_value": "82.4000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17882652580738068,
+                "raw_value": "37.7657"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.16204343736171722,
+                "raw_value": "7.8942"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.12336303293704987,
+                "raw_value": "-0.0479"
+            }
+        ]
+    },
+    {
+        "sample_id": 1377,
+        "lot_id": "LOT_0056",
+        "wafer_id": 3,
+        "prediction_probability": 0.13023173809051514,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.8923330903053284,
+                "raw_value": "8.9964"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.20626093447208405,
+                "raw_value": "7.6648"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.14739589393138885,
+                "raw_value": "24.8096"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.1176593229174614,
+                "raw_value": "-5339.7500"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.09759350121021271,
+                "raw_value": "0.1730"
+            }
+        ]
+    },
+    {
+        "sample_id": 1381,
+        "lot_id": "LOT_0056",
+        "wafer_id": 7,
+        "prediction_probability": 0.09685588628053665,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.17477381229400635,
+                "raw_value": "2862.6900"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.16121704876422882,
+                "raw_value": "34.6758"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.13926856219768524,
+                "raw_value": "7.2459"
+            },
+            {
+                "feature": "sensor_31",
+                "shap_val": 0.11309020966291428,
+                "raw_value": "3.3490"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.10480642318725586,
+                "raw_value": "0.1430"
+            }
+        ]
+    },
+    {
+        "sample_id": 1382,
+        "lot_id": "LOT_0056",
+        "wafer_id": 8,
+        "prediction_probability": 0.0967196673154831,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.17638708651065826,
+                "raw_value": "0.1651"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17558927834033966,
+                "raw_value": "38.3186"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.1313581019639969,
+                "raw_value": "-0.0238"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.10628648102283478,
+                "raw_value": "6.7000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.08452186733484268,
+                "raw_value": "0.2190"
+            }
+        ]
+    },
+    {
+        "sample_id": 1386,
+        "lot_id": "LOT_0056",
+        "wafer_id": 12,
+        "prediction_probability": 0.10960866510868073,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.5727375149726868,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.1458728313446045,
+                "raw_value": "2955.8200"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12711437046527863,
+                "raw_value": "39.7506"
+            },
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.11805782467126846,
+                "raw_value": "114.1000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.0984991118311882,
+                "raw_value": "0.1590"
+            }
+        ]
+    },
+    {
+        "sample_id": 1390,
+        "lot_id": "LOT_0056",
+        "wafer_id": 16,
+        "prediction_probability": 0.05316191911697388,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.35076966881752014,
+                "raw_value": "8.7228"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.15399722754955292,
+                "raw_value": "0.1434"
+            },
+            {
+                "feature": "sensor_500",
+                "shap_val": 0.1302632987499237,
+                "raw_value": "947.3684"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11868848651647568,
+                "raw_value": "51.7800"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.07558297365903854,
+                "raw_value": "81.7600"
+            }
+        ]
+    },
+    {
+        "sample_id": 1391,
+        "lot_id": "LOT_0056",
+        "wafer_id": 17,
+        "prediction_probability": 0.05350346490740776,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.1604246348142624,
+                "raw_value": "6.6690"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.12147372961044312,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.10466695576906204,
+                "raw_value": "3.3499"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.07855889946222305,
+                "raw_value": "0.8218"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.05976451560854912,
+                "raw_value": "0.0716"
+            }
+        ]
+    },
+    {
+        "sample_id": 1397,
+        "lot_id": "LOT_0056",
+        "wafer_id": 23,
+        "prediction_probability": 0.14925920963287354,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2854234576225281,
+                "raw_value": "24.4929"
+            },
+            {
+                "feature": "sensor_339",
+                "shap_val": 0.25340211391448975,
+                "raw_value": "35.1264"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.09346288442611694,
+                "raw_value": "66.3942"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.07644633203744888,
+                "raw_value": "0.8307"
+            },
+            {
+                "feature": "sensor_196",
+                "shap_val": 0.07386904209852219,
+                "raw_value": "67.6500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1398,
+        "lot_id": "LOT_0056",
+        "wafer_id": 24,
+        "prediction_probability": 0.07926654815673828,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.3901994526386261,
+                "raw_value": "83.1300"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.38284534215927124,
+                "raw_value": "7.1610"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.13408055901527405,
+                "raw_value": "2852.1800"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12840703129768372,
+                "raw_value": "49.9506"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.10610536485910416,
+                "raw_value": "0.1304"
+            }
+        ]
+    },
+    {
+        "sample_id": 1400,
+        "lot_id": "LOT_0057",
+        "wafer_id": 1,
+        "prediction_probability": 0.09879443049430847,
+        "actual_status": "FAIL",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 1.1940908432006836,
+                "raw_value": "0.1416"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.1393207311630249,
+                "raw_value": "-5247.0000"
+            },
+            {
+                "feature": "sensor_541",
+                "shap_val": 0.10135997831821442,
+                "raw_value": "12.0932"
+            },
+            {
+                "feature": "sensor_100",
+                "shap_val": 0.05573328956961632,
+                "raw_value": "0.0010"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.042560089379549026,
+                "raw_value": "29.5310"
+            }
+        ]
+    },
+    {
+        "sample_id": 1401,
+        "lot_id": "LOT_0057",
+        "wafer_id": 2,
+        "prediction_probability": 0.06132391467690468,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2882911264896393,
+                "raw_value": "8.0089"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.12298993021249771,
+                "raw_value": "0.1434"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11004296690225601,
+                "raw_value": "36.1845"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.09300269186496735,
+                "raw_value": "81.7600"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.09163831174373627,
+                "raw_value": "0.8218"
+            }
+        ]
+    },
+    {
+        "sample_id": 1404,
+        "lot_id": "LOT_0057",
+        "wafer_id": 5,
+        "prediction_probability": 0.05351651832461357,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_153",
+                "shap_val": 0.3972181975841522,
+                "raw_value": "0.0042"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2331993281841278,
+                "raw_value": "6.9188"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.2168208509683609,
+                "raw_value": "2893.1900"
+            },
+            {
+                "feature": "sensor_562",
+                "shap_val": 0.1669672727584839,
+                "raw_value": "246.2660"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.08355297148227692,
+                "raw_value": "26.6271"
+            }
+        ]
+    },
+    {
+        "sample_id": 1408,
+        "lot_id": "LOT_0057",
+        "wafer_id": 9,
+        "prediction_probability": 0.066783107817173,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_584",
+                "shap_val": 0.24385784566402435,
+                "raw_value": "0.0059"
+            },
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.21180061995983124,
+                "raw_value": "121.2217"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.14830800890922546,
+                "raw_value": "-5226.2500"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.09667226672172546,
+                "raw_value": "0.1474"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.08213309198617935,
+                "raw_value": "0.8741"
+            }
+        ]
+    },
+    {
+        "sample_id": 1414,
+        "lot_id": "LOT_0057",
+        "wafer_id": 15,
+        "prediction_probability": 0.05362655967473984,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.15773507952690125,
+                "raw_value": "0.1651"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.13867908716201782,
+                "raw_value": "-5284.5000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11439505219459534,
+                "raw_value": "38.5169"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.10597677528858185,
+                "raw_value": "7.6600"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.09452708810567856,
+                "raw_value": "0.8224"
+            }
+        ]
+    },
+    {
+        "sample_id": 1424,
+        "lot_id": "LOT_0057",
+        "wafer_id": 25,
+        "prediction_probability": 0.10842803865671158,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.703289806842804,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.12029379606246948,
+                "raw_value": "0.9920"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.11220338195562363,
+                "raw_value": "7.2144"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.09648076444864273,
+                "raw_value": "7.9017"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.07776708155870438,
+                "raw_value": "7.8400"
+            }
+        ]
+    },
+    {
+        "sample_id": 1426,
+        "lot_id": "LOT_0058",
+        "wafer_id": 2,
+        "prediction_probability": 0.37729206681251526,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 1.2714406251907349,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.12331393361091614,
+                "raw_value": "81.9200"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.11829875409603119,
+                "raw_value": "8.0226"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11180435121059418,
+                "raw_value": "28.6895"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.10811525583267212,
+                "raw_value": "0.0000"
+            }
+        ]
+    },
+    {
+        "sample_id": 1431,
+        "lot_id": "LOT_0058",
+        "wafer_id": 7,
+        "prediction_probability": 0.06299176812171936,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.24836072325706482,
+                "raw_value": "0.1648"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.1677994430065155,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.15595193207263947,
+                "raw_value": "7.5886"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.1489698737859726,
+                "raw_value": "0.1434"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11882703006267548,
+                "raw_value": "34.6773"
+            }
+        ]
+    },
+    {
+        "sample_id": 1435,
+        "lot_id": "LOT_0058",
+        "wafer_id": 11,
+        "prediction_probability": 0.14926376938819885,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.3769076466560364,
+                "raw_value": "7.2355"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.32117024064064026,
+                "raw_value": "45.8089"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.14271283149719238,
+                "raw_value": "-5313.5000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11997267603874207,
+                "raw_value": "29.7306"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.09840301424264908,
+                "raw_value": "0.2210"
+            }
+        ]
+    },
+    {
+        "sample_id": 1436,
+        "lot_id": "LOT_0058",
+        "wafer_id": 12,
+        "prediction_probability": 0.06368325650691986,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.30579593777656555,
+                "raw_value": "7.7100"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.14442981779575348,
+                "raw_value": "32.7288"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.14400309324264526,
+                "raw_value": "2816.8100"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.13497699797153473,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.13304181396961212,
+                "raw_value": "-5282.2500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1449,
+        "lot_id": "LOT_0058",
+        "wafer_id": 25,
+        "prediction_probability": 0.18131722509860992,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 1.1250836849212646,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_584",
+                "shap_val": 0.16316504776477814,
+                "raw_value": "0.0059"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1483069211244583,
+                "raw_value": "24.9760"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.14311988651752472,
+                "raw_value": "-5311.7500"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.09673960506916046,
+                "raw_value": "7.8652"
+            }
+        ]
+    },
+    {
+        "sample_id": 1450,
+        "lot_id": "LOT_0059",
+        "wafer_id": 1,
+        "prediction_probability": 0.07936979085206985,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.20474931597709656,
+                "raw_value": "-5211.0000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.14246319234371185,
+                "raw_value": "28.7131"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.12607648968696594,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.10380849242210388,
+                "raw_value": "-0.0358"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.05670050531625748,
+                "raw_value": "2.7317"
+            }
+        ]
+    },
+    {
+        "sample_id": 1456,
+        "lot_id": "LOT_0059",
+        "wafer_id": 7,
+        "prediction_probability": 0.23396135866641998,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.288529634475708,
+                "raw_value": "8.7071"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.19611035287380219,
+                "raw_value": "0.1407"
+            },
+            {
+                "feature": "sensor_2",
+                "shap_val": 0.13199688494205475,
+                "raw_value": "2306.1000"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.1302117258310318,
+                "raw_value": "0.9923"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.09917914867401123,
+                "raw_value": "0.1570"
+            }
+        ]
+    },
+    {
+        "sample_id": 1457,
+        "lot_id": "LOT_0059",
+        "wafer_id": 8,
+        "prediction_probability": 0.06506354361772537,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.7102169990539551,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2510507106781006,
+                "raw_value": "10.1918"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.1684650331735611,
+                "raw_value": "28.4191"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.10607974976301193,
+                "raw_value": "8.1848"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.08634518086910248,
+                "raw_value": "30.7585"
+            }
+        ]
+    },
+    {
+        "sample_id": 1461,
+        "lot_id": "LOT_0059",
+        "wafer_id": 12,
+        "prediction_probability": 0.05064196512103081,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.30534619092941284,
+                "raw_value": "11.0739"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.20564745366573334,
+                "raw_value": "0.1302"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.11271658539772034,
+                "raw_value": "8.2849"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.09970758855342865,
+                "raw_value": "2900.2900"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.07011250406503677,
+                "raw_value": "0.1645"
+            }
+        ]
+    },
+    {
+        "sample_id": 1467,
+        "lot_id": "LOT_0059",
+        "wafer_id": 18,
+        "prediction_probability": 0.05478494614362717,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.3767246901988983,
+                "raw_value": "0.1233"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.13628217577934265,
+                "raw_value": "32.9613"
+            },
+            {
+                "feature": "sensor_485",
+                "shap_val": 0.08345108479261398,
+                "raw_value": "0.0000"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.07245040684938431,
+                "raw_value": "-5257.0000"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.053839948028326035,
+                "raw_value": "-0.0420"
+            }
+        ]
+    },
+    {
+        "sample_id": 1470,
+        "lot_id": "LOT_0059",
+        "wafer_id": 21,
+        "prediction_probability": 0.13463525474071503,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.77142333984375,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2562331557273865,
+                "raw_value": "8.0115"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1697288304567337,
+                "raw_value": "30.0065"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.09154415130615234,
+                "raw_value": "-0.0587"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.07376572489738464,
+                "raw_value": "-5351.7500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1487,
+        "lot_id": "LOT_0060",
+        "wafer_id": 13,
+        "prediction_probability": 0.07864902913570404,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.22787372767925262,
+                "raw_value": "3.3573"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.16080625355243683,
+                "raw_value": "0.9927"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.15162767469882965,
+                "raw_value": "-5393.5000"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11716163903474808,
+                "raw_value": "37.5469"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.08934176713228226,
+                "raw_value": "0.1920"
+            }
+        ]
+    },
+    {
+        "sample_id": 1489,
+        "lot_id": "LOT_0060",
+        "wafer_id": 15,
+        "prediction_probability": 0.20522820949554443,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.5972188115119934,
+                "raw_value": "27.8290"
+            },
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.573146641254425,
+                "raw_value": "26.9709"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.3649829626083374,
+                "raw_value": "82.3929"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.2415229231119156,
+                "raw_value": "23.1002"
+            },
+            {
+                "feature": "sensor_63",
+                "shap_val": 0.16814880073070526,
+                "raw_value": "22.5675"
+            }
+        ]
+    },
+    {
+        "sample_id": 1491,
+        "lot_id": "LOT_0060",
+        "wafer_id": 17,
+        "prediction_probability": 0.050108082592487335,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.15020981431007385,
+                "raw_value": "46.8875"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.09151878952980042,
+                "raw_value": "-0.0321"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.07607979327440262,
+                "raw_value": "9.0600"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.07357043027877808,
+                "raw_value": "0.0660"
+            },
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.04978501796722412,
+                "raw_value": "4.7545"
+            }
+        ]
+    },
+    {
+        "sample_id": 1494,
+        "lot_id": "LOT_0060",
+        "wafer_id": 20,
+        "prediction_probability": 0.14670363068580627,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.48029133677482605,
+                "raw_value": "86.1200"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.17728430032730103,
+                "raw_value": "0.9920"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.1541559100151062,
+                "raw_value": "0.1547"
+            },
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.15401194989681244,
+                "raw_value": "3.8873"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.13162942230701447,
+                "raw_value": "23.3578"
+            }
+        ]
+    },
+    {
+        "sample_id": 1506,
+        "lot_id": "LOT_0061",
+        "wafer_id": 7,
+        "prediction_probability": 0.09315098822116852,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_573",
+                "shap_val": 0.7271926403045654,
+                "raw_value": "0.1166"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.13238878548145294,
+                "raw_value": "28.4637"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.12103832513093948,
+                "raw_value": "2883.8800"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.12022379040718079,
+                "raw_value": "-5093.7500"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11974252015352249,
+                "raw_value": "38.5132"
+            }
+        ]
+    },
+    {
+        "sample_id": 1513,
+        "lot_id": "LOT_0061",
+        "wafer_id": 14,
+        "prediction_probability": 0.14226873219013214,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.18475882709026337,
+                "raw_value": "6.9810"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.12673141062259674,
+                "raw_value": "0.1617"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.12438137084245682,
+                "raw_value": "0.1470"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1111416220664978,
+                "raw_value": "25.0963"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09826639294624329,
+                "raw_value": "-5370.2500"
+            }
+        ]
+    },
+    {
+        "sample_id": 1522,
+        "lot_id": "LOT_0061",
+        "wafer_id": 23,
+        "prediction_probability": 0.06271364539861679,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.14285928010940552,
+                "raw_value": "23.9830"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.10067051649093628,
+                "raw_value": "-0.0073"
+            },
+            {
+                "feature": "sensor_130",
+                "shap_val": 0.09643089771270752,
+                "raw_value": "0.8667"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.09252697974443436,
+                "raw_value": "-5366.2500"
+            },
+            {
+                "feature": "sensor_541",
+                "shap_val": 0.04686018079519272,
+                "raw_value": "14.0018"
+            }
+        ]
+    },
+    {
+        "sample_id": 1526,
+        "lot_id": "LOT_0062",
+        "wafer_id": 2,
+        "prediction_probability": 0.0740681067109108,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.744306743144989,
+                "raw_value": "0.0670"
+            },
+            {
+                "feature": "sensor_310",
+                "shap_val": 0.2119378000497818,
+                "raw_value": "0.3404"
+            },
+            {
+                "feature": "sensor_362",
+                "shap_val": 0.12933185696601868,
+                "raw_value": "0.0071"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.1100597158074379,
+                "raw_value": "0.1690"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.08375323563814163,
+                "raw_value": "10.0800"
+            }
+        ]
+    },
+    {
+        "sample_id": 1528,
+        "lot_id": "LOT_0062",
+        "wafer_id": 4,
+        "prediction_probability": 0.06410741806030273,
+        "actual_status": "PASS",
+        "operator_id": "OP_B",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17479069530963898,
+                "raw_value": "50.5048"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.13654804229736328,
+                "raw_value": "-5337.0000"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.08321624249219894,
+                "raw_value": "0.1300"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.07462242245674133,
+                "raw_value": "-0.0312"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.06265310198068619,
+                "raw_value": "0.1302"
+            }
+        ]
+    },
+    {
+        "sample_id": 1539,
+        "lot_id": "LOT_0062",
+        "wafer_id": 15,
+        "prediction_probability": 0.05170588567852974,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.3888641893863678,
+                "raw_value": "5.9282"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1323266327381134,
+                "raw_value": "49.5820"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.10708262026309967,
+                "raw_value": "13.2875"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.09152691811323166,
+                "raw_value": "2908.9400"
+            },
+            {
+                "feature": "sensor_90",
+                "shap_val": 0.08400622010231018,
+                "raw_value": "8362.9301"
+            }
+        ]
+    },
+    {
+        "sample_id": 1542,
+        "lot_id": "LOT_0062",
+        "wafer_id": 18,
+        "prediction_probability": 0.11548297107219696,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.4630853235721588,
+                "raw_value": "83.3400"
+            },
+            {
+                "feature": "sensor_310",
+                "shap_val": 0.19123871624469757,
+                "raw_value": "0.3467"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.1178743913769722,
+                "raw_value": "4.1633"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.08797486871480942,
+                "raw_value": "0.9927"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.08703722059726715,
+                "raw_value": "4.7400"
+            }
+        ]
+    },
+    {
+        "sample_id": 1544,
+        "lot_id": "LOT_0062",
+        "wafer_id": 20,
+        "prediction_probability": 0.08806343376636505,
+        "actual_status": "PASS",
+        "operator_id": "OP_C",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.4361337125301361,
+                "raw_value": "83.3400"
+            },
+            {
+                "feature": "sensor_425",
+                "shap_val": 0.138832226395607,
+                "raw_value": "10.3619"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.11243563890457153,
+                "raw_value": "25.2868"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.0881134644150734,
+                "raw_value": "0.1258"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.08514778316020966,
+                "raw_value": "7.6699"
+            }
+        ]
+    },
+    {
+        "sample_id": 1545,
+        "lot_id": "LOT_0062",
+        "wafer_id": 21,
+        "prediction_probability": 0.060289036482572556,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.20666927099227905,
+                "raw_value": "82.0300"
+            },
+            {
+                "feature": "sensor_423",
+                "shap_val": 0.18448619544506073,
+                "raw_value": "116.4818"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.1632918119430542,
+                "raw_value": "0.1473"
+            },
+            {
+                "feature": "sensor_59",
+                "shap_val": 0.1499425172805786,
+                "raw_value": "4.6964"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.09738591313362122,
+                "raw_value": "33.6993"
+            }
+        ]
+    },
+    {
+        "sample_id": 1550,
+        "lot_id": "LOT_0063",
+        "wafer_id": 1,
+        "prediction_probability": 0.10922566801309586,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.32733798027038574,
+                "raw_value": "6.8285"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.17448846995830536,
+                "raw_value": "35.7768"
+            },
+            {
+                "feature": "sensor_163",
+                "shap_val": 0.08894219249486923,
+                "raw_value": "0.1860"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.07271599024534225,
+                "raw_value": "0.0032"
+            },
+            {
+                "feature": "sensor_201",
+                "shap_val": 0.07141439616680145,
+                "raw_value": "7.7600"
+            }
+        ]
+    },
+    {
+        "sample_id": 1555,
+        "lot_id": "LOT_0063",
+        "wafer_id": 6,
+        "prediction_probability": 0.05081169307231903,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.20070748031139374,
+                "raw_value": "6.7663"
+            },
+            {
+                "feature": "sensor_87",
+                "shap_val": 0.14640162885189056,
+                "raw_value": "0.9925"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.13011236488819122,
+                "raw_value": "2902.9600"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.12737853825092316,
+                "raw_value": "23.8278"
+            },
+            {
+                "feature": "sensor_65",
+                "shap_val": 0.09050294756889343,
+                "raw_value": "29.9103"
+            }
+        ]
+    },
+    {
+        "sample_id": 1562,
+        "lot_id": "LOT_0063",
+        "wafer_id": 13,
+        "prediction_probability": 0.05460662767291069,
+        "actual_status": "PASS",
+        "operator_id": "OP_E",
+        "recipe": "RECIPE_HBM_BOND_3D",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.1431439071893692,
+                "raw_value": "52.6790"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.08852571994066238,
+                "raw_value": "2899.4100"
+            },
+            {
+                "feature": "sensor_99",
+                "shap_val": 0.07380422949790955,
+                "raw_value": "0.0884"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.07111167162656784,
+                "raw_value": "-0.0988"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.06930340081453323,
+                "raw_value": "2.9784"
+            }
+        ]
+    },
+    {
+        "sample_id": 1564,
+        "lot_id": "LOT_0063",
+        "wafer_id": 15,
+        "prediction_probability": 0.05077315494418144,
+        "actual_status": "PASS",
+        "operator_id": "OP_A",
+        "recipe": "RECIPE_DRAM_DIFF_1z",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_40",
+                "shap_val": 0.2029089331626892,
+                "raw_value": "82.0300"
+            },
+            {
+                "feature": "sensor_307",
+                "shap_val": 0.16758139431476593,
+                "raw_value": "0.1473"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.13999487459659576,
+                "raw_value": "-5153.2500"
+            },
+            {
+                "feature": "sensor_460",
+                "shap_val": 0.13244511187076569,
+                "raw_value": "37.7546"
+            },
+            {
+                "feature": "sensor_102",
+                "shap_val": 0.06849311292171478,
+                "raw_value": "0.0022"
+            }
+        ]
+    },
+    {
+        "sample_id": 1566,
+        "lot_id": "LOT_0063",
+        "wafer_id": 17,
+        "prediction_probability": 0.0752972662448883,
+        "actual_status": "PASS",
+        "operator_id": "OP_D",
+        "recipe": "RECIPE_NAND_ETCH_20nm",
+        "top_root_cause_sensors": [
+            {
+                "feature": "sensor_333",
+                "shap_val": 0.2565871775150299,
+                "raw_value": "8.9808"
+            },
+            {
+                "feature": "sensor_477",
+                "shap_val": 0.21177047491073608,
+                "raw_value": "9.7475"
+            },
+            {
+                "feature": "sensor_21",
+                "shap_val": 0.07502573728561401,
+                "raw_value": "-5319.5000"
+            },
+            {
+                "feature": "sensor_491",
+                "shap_val": 0.07223766297101974,
+                "raw_value": "2.4959"
+            },
+            {
+                "feature": "sensor_0",
+                "shap_val": 0.05206850543618202,
+                "raw_value": "2944.9200"
+            }
+        ]
+    }
+]
