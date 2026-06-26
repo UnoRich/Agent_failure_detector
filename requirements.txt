@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+xgboost
+lightgbm
+joblib
+shap
+streamlit
+langchain
+langchain-community

@@ -2,6 +2,8 @@
 
 > **100% On-Premise Secure AI Agent for Tabular Sensor Yield Diagnostics in Semiconductor Manufacturing**
 
+![Dashboard UI Screenshot](reports/dashboard_screenshot.jpg)
+
 This repository implements an end-to-end, secure, offline AI co-pilot system for semiconductor manufacturing yield analysis. It combines XGBoost-based anomaly detection, explainable AI (SHAP) feature attribution, SQLite-based legacy data modeling, and local LLM agents (via Ollama) to assist fab yield engineers in root-cause diagnosis without cloud data leakage.
 
 ---
